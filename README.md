@@ -1,10 +1,9 @@
 # TechnoKit
+This repository contains the source code for an online electronics store developed using React. The project was created as part of the "FE_10_101 online(1)" course.
 
 ## [Live Site](https://technokit-store-0fet.onrender.com/)
 
 ![Site Application](https://i.ibb.co/q913hxx/Techno-Kit.png)
-
-This repository contains the source code for an online electronics store developed using React. The project was created as part of the "FE_10_101 online(1)" course.
 
 ## Links
 ### [GitHub repository](https://github.com/AnnaSimaniuk/TechnoKit)
