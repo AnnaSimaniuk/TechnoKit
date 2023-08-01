@@ -13,7 +13,7 @@ This repository contains the source code for an online electronics store develop
 ## Project Description
 This project is an online electronics store where users can browse products, add them to the cart, make purchases, and more. The store is built using React to provide a user-friendly and enjoyable experience for customers.
 
-### Technologies Used
+## Technologies Used
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square&link=https://reactjs.org/)
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat-square&link=https://redux.js.org/)
 - ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white&style=flat-square&link=https://reactrouter.com/)
@@ -33,7 +33,7 @@ Additional tools and libraries used for styling and enhanced functionality inclu
 - Oksana Zemliana
 - [Anna Simaniuk](https://github.com/AnnaSimaniuk)
 
-### Contributions by Each Member
+## Contributions by Each Member
 For each team member, the tasks they were responsible for are listed below:
 
 ### Volodymyr Mazepa:
@@ -107,7 +107,7 @@ The main objectives of the project were as follows:
 - Creating a user dashboard.
 - Developing an admin panel with a dashboard and charts.
   
-### Admin Access
+## Admin Access
 To access the admin features, use the following credentials:
 
 Username: Addda
