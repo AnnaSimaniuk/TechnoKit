@@ -1,6 +1,6 @@
 # TechnoKit
 
-### [Live Site](https://technokit-store-0fet.onrender.com/)
+## [Live Site](https://technokit-store-0fet.onrender.com/)
 
 ![Site Application](https://i.ibb.co/q913hxx/Techno-Kit.png)
 
@@ -24,14 +24,14 @@ This project is an online electronics store where users can browse products, add
 
 Additional tools and libraries used for styling and enhanced functionality include Emotion, Material-UI, Formik, Chart.js, React Google Maps API, React OAuth Google, and others.
 
-### Development Team
-Volodymyr Mazepa
-Krystyna Rud
-Maksym Sukhetskyi
-Maksym Huk
-Maryna Spyrydonova
-Oksana Zemliana
-[Anna Simaniuk](https://github.com/AnnaSimaniuk)
+## Development Team
+- Volodymyr Mazepa
+- Krystyna Rud
+- Maksym Sukhetskyi
+- Maksym Huk
+- Maryna Spyrydonova
+- Oksana Zemliana
+- [Anna Simaniuk](https://github.com/AnnaSimaniuk)
 
 ### Contributions by Each Member
 For each team member, the tasks they were responsible for are listed below:
