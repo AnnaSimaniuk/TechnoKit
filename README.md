@@ -1,5 +1,5 @@
 # TechnoKit
-This repository contains the source code for an online electronics store developed using React. The project was created as part of the "FE_10_101 online(1)" course.
+TechnoKit is an e-commerce website developed using React. It allows users to browse and purchase a wide range of technology products. The project includes features such as product search, wish list, product comparison, detailed product pages with sliders and rating/review functionality, newsletter subscription, user account dashboard and admin panel with charts and data management.
 
 ## [Live Site](https://technokit-store-0fet.onrender.com/)
 
