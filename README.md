@@ -47,7 +47,7 @@ For each team member, the tasks they were responsible for are listed below:
 - User account functionality.
 - Implementation of charts in the admin panel.
 
-## Maksym Sukhetskyi:
+### Maksym Sukhetskyi:
 - About product block design and logic.
 - CI/CD integration.
 - Single page design and logic.
